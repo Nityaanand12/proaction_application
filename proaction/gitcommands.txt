@@ -1,0 +1,6 @@
+echo "# proaction_application" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Nityaanand12/proaction_application.git
+git push -u origin master
